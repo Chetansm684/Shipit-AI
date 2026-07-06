@@ -1,0 +1,39 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+/yarn-error.log
+
+# Testing
+/coverage
+
+# Next.js build output and cache
+/.next/
+/out/
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+
+# Production / local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Clerk configuration
+/.clerk/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -2,7 +2,7 @@
 
 A next-generation, full-stack AI-powered React application generator. Users describe their app ideas in plain English, and the platform instantly generates production-ready, beautiful React + Tailwind code that renders live in the browser. 
 
-Inspired by platforms like Bolt.new and Lovable, it integrates persistent workspace histories, smart npm package validation, an in-browser live Sandpack preview, and a credit-based subscription model with Clerk billing.
+It integrates persistent workspace histories, smart npm package validation, an in-browser live Sandpack preview, and a credit-based subscription model with Clerk billing.
 
 ---
 

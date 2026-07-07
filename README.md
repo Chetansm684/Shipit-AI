@@ -1,4 +1,4 @@
-# Shipit AI — Turn Prompts into React Apps 🚀
+# Shipit AI — Turn Prompts into React Apps
 
 A next-generation, full-stack AI-powered React application generator. Users describe their app ideas in plain English, and the platform instantly generates production-ready, beautiful React + Tailwind code that renders live in the browser. 
 
@@ -17,7 +17,7 @@ It integrates persistent workspace histories, smart npm package validation, an i
 
 ---
 
-## Overview
+## 📖 Overview
 
 Shipit AI is designed to help developers and designers bootstrap functional, interactive components and layouts instantly. 
 
@@ -25,7 +25,7 @@ The workspace split-panel layout features an AI Chat assistant on the left, and 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology & Implementation File |
 |---|---|
@@ -44,7 +44,7 @@ The workspace split-panel layout features an AI Chat assistant on the left, and 
 
 ---
 
-## File & Directory Structure
+## 📁 File & Directory Structure
 
 To help navigate the codebase, here is the structural mapping of core features:
 
@@ -58,7 +58,7 @@ To help navigate the codebase, here is the structural mapping of core features:
 
 ---
 
-## Key Features
+## 🌟 Key Features
 
 ### 1. Multi-Model AI Orchestration
 *   Choose between four powerful models from Google, DeepSeek, and OpenAI directly from the workspace selector.
@@ -94,7 +94,7 @@ To help navigate the codebase, here is the structural mapping of core features:
 
 ---
 
-## Database Structure
+## 🗄️ Database Structure
 
 The database configuration utilizes two primary Postgres tables managed by Prisma:
 
